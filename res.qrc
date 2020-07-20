@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>test.mp3</file>
+        <file>no.png</file>
+    </qresource>
+    <qresource prefix="/samples">
+        <file>music_sample/aguitar1.mp3</file>
+        <file>music_sample/aguitar2.mp3</file>
+        <file>music_sample/aguitar3.mp3</file>
+        <file>music_sample/apiano.mp3</file>
+        <file>music_sample/bass1.mp3</file>
+        <file>music_sample/bass2.mp3</file>
+        <file>music_sample/bass3.mp3</file>
+        <file>music_sample/bass4.mp3</file>
+        <file>music_sample/bass5.mp3</file>
+        <file>music_sample/bass6.mp3</file>
+        <file>music_sample/choirs.mp3</file>
+        <file>music_sample/clap1.mp3</file>
+        <file>music_sample/clap2.mp3</file>
+        <file>music_sample/clap3.mp3</file>
+        <file>music_sample/epiano.mp3</file>
+        <file>music_sample/hithat.mp3</file>
+        <file>music_sample/kick1.mp3</file>
+        <file>music_sample/kick2.mp3</file>
+        <file>music_sample/kick3.mp3</file>
+        <file>music_sample/sguitar1.mp3</file>
+        <file>music_sample/sguitar2.mp3</file>
+        <file>music_sample/shakers.mp3</file>
+        <file>music_sample/tom.mp3</file>
+    </qresource>
+</RCC>
